@@ -1,0 +1,192 @@
+
+/*------header part start---------*/
+
+header {
+
+background: white;
+
+padding: 42px 0px;
+
+border-bottom: 9px solid #e4e4e4;
+}
+
+
+.logo {
+}
+
+.logo img {
+
+
+}
+
+.menu {
+
+width: 100%;
+
+float: left;
+
+padding: 24px 0px 0px 0px;
+}
+
+.menu ul{
+
+list-style: none;
+}
+
+.menu ul li{
+
+display: inline;
+
+margin: 26px;
+}
+
+.menu ul li a{
+
+text-decoration: none;
+
+color: blue;
+
+font-size: 19px;
+
+text-transform: uppercase;
+}
+
+.menu ul li a:hover{ 
+	color: black;
+
+	
+}
+
+/*-------header part end-------------*/
+
+/*---------section part start--------*/
+
+.only-part {
+
+background: #ec5252;
+
+width: 100%;
+
+padding: 50px 0px;
+}
+
+.cars {
+
+
+}
+
+.cars h2{
+
+text-transform: uppercase;
+
+font-size: 44px;
+
+color: white;
+
+padding: 14px 0px 44px;
+}
+
+.cars img{
+
+width: 87%;
+}
+
+.cars p {
+
+padding: 24px 137px 25px 0px;
+
+font-size: 15px;
+
+color: white;
+
+line-height: 28px;
+}
+
+.bc {
+
+margin: 81px  0px 0px -96px;
+}
+
+.bc img {
+
+width: 98%;
+
+height: 204px;
+}
+
+.name {
+
+text-transform: uppercase;
+
+color: white;
+
+width: 100%;
+}
+
+.name p {
+
+margin-bottom: 9px;
+}
+
+.form-control {
+
+background: #ffffff14;
+
+border: none;
+}
+
+.batn {
+
+font-family: 'Pacifico', cursive;
+} 
+
+.batn button {
+
+background: transparent;
+
+border: none;
+
+font-size: 31px;
+
+color: white;
+
+margin-top: 78px;
+
+margin-left: 13px;
+
+transition: 0.5s ease;
+}
+
+.batn button:hover {
+
+
+}
+
+/*------section part end-----------*/
+
+/*----------footer part start----------*/
+
+.last-part {
+
+background: #e44036;
+
+width: 100%;
+
+padding: 16px 0px;
+}
+
+.final-line {
+
+color: white;
+
+text-align: center;
+}
+
+.final-line p{
+
+margin-top: 21px;
+
+font-size: 13px;
+}
+
+/*--------footer part end--------*/

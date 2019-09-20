@@ -1,0 +1,268 @@
+
+
+
+
+
+/*-------First Section------*/
+
+.first-part {
+
+	background: url(../img/bg.png);
+	background-repeat: no-repeat; 
+	background-size: cover;
+	width: 100%;
+	float: left;
+	
+}
+
+.first-line {
+
+width: 100%;
+
+float: left;
+
+padding: 69px 0px 0px;
+}
+
+.logo {
+
+width: 100%;
+
+float: left;
+
+display: block;
+}
+
+
+.logo img{width: 93%;}
+
+
+.menu {
+
+width: 100%;
+
+float: left;
+
+display: block;
+}
+
+.menu ul{
+
+list-style: none;
+}
+
+
+.menu ul li{
+
+display: inline-block;
+
+text-transform: uppercase;
+
+font-size: 18px;
+
+margin: 24px 72px;
+}
+
+.menu ul li a{
+
+text-decoration: none;
+
+margin: 18px;
+
+color: white;
+}
+
+.menu ul li a:hover{
+	background: #00000094;
+	border-radius: 5px;
+	padding: 8px 12px;
+	color: white;
+
+
+	
+}
+
+.call-us {
+
+margin: 113px 6px;
+
+}
+
+
+.call-us h2{
+
+font-size: 50px;
+
+text-transform: initial;
+
+background: #0000006b;
+
+width: 104%;
+
+text-align: center;
+
+color: white;
+
+height: 40%;
+
+padding: 27px 0px;
+
+margin: 0px 6px 31px -15px;
+}
+
+
+.call-us p{
+
+width: 100%;
+
+font-size: 15px;
+
+color: white;
+
+margin: 0px -15px;
+}
+
+.call-us button {
+
+padding: 18px 105px;
+
+margin: 0px -15px;
+
+background: transparent;
+
+border-color: white;
+
+color: white;
+
+text-transform: uppercase;
+}
+
+/*------section one end-----*/
+
+/*------section two start-----*/
+
+.second-part {
+
+background: white;
+
+width: 100%;
+}
+
+
+.second-line{
+
+padding: 208px 0px 0px 0px;
+
+width: 100%;
+}
+
+
+.second-line h2{
+
+font-size: 52px;
+
+text-transform: uppercase;
+}
+
+
+.second-line p{
+
+padding: 64px 194px 120px 0px;
+
+margin: 0px 0px;
+
+font-size: 15px;
+}
+
+.image {position: absolute;margin: 311px 83px;}
+
+.image img {
+
+width: 156%;
+}
+
+
+/*------section two end-------*/
+
+/*------section three start------*/
+
+.third-part {
+
+background: black;
+}
+
+.third-line {
+
+padding: 95px 0px;
+
+color: white;
+}
+
+.third-line h2{text-transform: uppercase;font-size: 46px;}
+
+.third-line p{
+
+padding: 0px 221px 0px 0px;
+}
+
+.third-line button{
+
+padding: 8px 12px;
+
+font-size: 16px;
+
+text-transform: uppercase;
+
+background: transparent;
+
+color: white;
+
+transition: 0.6s ease;
+}
+
+.third-line button:hover {
+	background: white;
+	color: black;
+}
+
+.cars-two {
+}
+
+
+.cars-two img{
+
+width: 119%;
+
+margin: 238px -92px;
+}
+
+/*------section three end----*/
+
+/*------footer part start-------*/
+
+
+.foot-part {
+
+background: #ef4035;
+
+width: 100%;
+
+padding: 15px 0px;
+}
+
+
+.foot-line {
+
+text-align: center;
+
+color: white;
+}
+
+.foot-line p {
+
+margin: 21px 0px;
+
+font-size: 13px;
+}
+
+/*-----end-------*/

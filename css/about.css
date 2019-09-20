@@ -1,0 +1,132 @@
+
+/*------header part start---------*/
+
+header {
+
+background: white;
+
+padding: 42px 0px;
+
+border-bottom: 9px solid #e4e4e4;
+}
+
+
+.logo {
+}
+
+.logo img {
+
+
+}
+
+.menu {
+
+width: 100%;
+
+float: left;
+
+padding: 24px 0px 0px 0px;
+}
+
+.menu ul{
+
+list-style: none;
+}
+
+.menu ul li{
+
+display: inline;
+
+margin: 26px;
+}
+
+.menu ul li a{
+
+text-decoration: none;
+
+color: blue;
+
+font-size: 19px;
+
+text-transform: uppercase;
+}
+
+.menu ul li a:hover{ 
+	color: black;
+
+	
+}
+
+/*-------header part end-------------*/
+
+/*---------section part start-----------*/
+
+.only-part {
+
+width: 100%;
+
+float: left;
+
+background: white;
+}
+
+.onest-headline {
+
+padding: 55px 71px 90px 0px;
+}
+
+.onest-headline h2{
+
+text-transform: uppercase;
+
+font-size: 54px;
+}
+
+.onest-headline p{
+
+line-height: 27px;
+}
+
+.second-headline {
+}
+
+.second-headline img{
+
+width: 110%;
+
+margin: 65px 0px 115px -79px;
+}
+
+.second-headline p{
+
+line-height: 28px;
+}
+
+/*--------section part end------------*/
+
+/*----------footer part start----------*/
+
+.last-part {
+
+background: #e44036;
+
+width: 100%;
+
+padding: 38px 0px;
+}
+
+.final-line {
+
+color: white;
+
+text-align: center;
+}
+
+.final-line p{
+
+font-size: 13px;
+
+margin: 44px 0px 0px;
+}
+
+/*--------footer part end--------*/
